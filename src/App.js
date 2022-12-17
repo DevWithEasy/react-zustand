@@ -1,7 +1,7 @@
 import './App.css';
 // import useStore from "./store/CounterStore";
 // import Counter from "./Components/Counter";
-import Courses from "./Components/Courses";
+import Courses from "./Components/Courses/Courses";
 
 function App() {
   return (
